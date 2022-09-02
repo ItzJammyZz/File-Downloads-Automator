@@ -107,3 +107,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         observer.stop()
     observer.join()
+
+    # Important notice for Windows User, if nothing is happening, try right-clicking the targetting file and choose anything from the dropdown lists e.g. Properties. It will work!
